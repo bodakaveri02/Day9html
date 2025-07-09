@@ -1,0 +1,22 @@
+/*attribute selector*/
+input[type="text"]
+{
+color:blueviolet;
+background-color: rgb(89, 16, 46);
+padding:20px;
+text-align:center;
+}
+input[placeholder="enter your username"]{
+    background-color:rgb(240, 160, 142);
+    padding: 20px;
+    border: solid black;
+}
+label[for="user"]{
+    color:blue;
+    background-color: rgb(118, 218, 3);
+    padding: 20px;
+    border: solid black;
+}
+body{
+    text-align: center;
+}
