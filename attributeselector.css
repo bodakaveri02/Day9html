@@ -20,3 +20,15 @@ label[for="user"]{
 body{
     text-align: center;
 }
+div{
+    background-color: aquamarine;
+    margin: 20px;
+    padding:30px;
+    border: solid;
+}
+span{
+    background-color: rgb(65, 28, 230);
+    margin: 20px;
+    padding:30px;
+    border: solid;
+}
