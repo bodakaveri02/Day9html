@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+   /* background-color:#7c73e6;*/
+    font-family: Arial,sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    border:solid black;
+    display:inline-block;
+    border-radius:5%;
+    width: 400px;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+h2{
+    text-align: right-left;
+}
+pre{
+    text-align: left;
+    font-family: Arial;
+}
+html{
+    justify-content: center;
+    display:flex;
+}
+.details{
+    background-color:skyblue;
+    height: 49%;
+    text-align: center;
+    border-radius: 3%;
+}
