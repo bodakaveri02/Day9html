@@ -1,12 +1,13 @@
 body{
     text-align: center;
    /* background-color:#7c73e6;*/
+    width:fit-content;
     font-family: Arial,sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     color:white;
-    border:solid black;
+    border:double black;
     display:inline-block;
     border-radius:5%;
     width: 400px;
@@ -28,8 +29,11 @@ html{
     display:flex;
 }
 .details{
-    background-color:skyblue;
-    height: 49%;
+    background-color:purple;
+    height: 49.3%;
     text-align: center;
-    border-radius: 3%;
+    border-radius:3dvh;
+    margin: auto;
 }
+
+
